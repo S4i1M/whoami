@@ -14,7 +14,7 @@
 `pentesting` `web appsec` `XSS research` `CTF`
 
 [![Portfolio](https://img.shields.io/badge/portfolio-portfolio.html-3ddc84?style=flat-square)](mailto:maxassistant123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-sksriram--19-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sksriram-19)
+[![LinkedIn](https://img.shields.io/badge/linkedin-sksriram--19-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriramsk19)
 [![TryHackMe](https://img.shields.io/badge/tryhackme-training-212F3D?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![picoCTF](https://img.shields.io/badge/picoCTF-solving-3ddc84?style=flat-square)](https://picoctf.org)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-labs%20in%20progress-e63a2c?style=flat-square)
