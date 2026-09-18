@@ -81,7 +81,7 @@ XSS in all its variants (reflected, stored, DOM-based), SQL injection, and broke
 **Find me elsewhere**
 
 [![LinkedIn](https://img.shields.io/badge/sriramsk19-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriramsk19)
-[![Email](https://img.shields.io/badge/Email-maxassistant123@gmail.com-3ddc84?style=for-the-badge&logo=gmail&logoColor=black)](mailto:******************@gmail.com)
+[![Email](https://img.shields.io/badge/Email-****************@gmail.com-3ddc84?style=for-the-badge&logo=gmail&logoColor=black)](mailto:******************@gmail.com)
 
 *No trackers, no cookies — just a learner documenting the journey.*
 
